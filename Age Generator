@@ -1,0 +1,6 @@
+#Age Generator
+
+birth_year = int(input("What is your birthyear? "))
+current_Year = 2025
+current_Year - birth_year = age
+print(age)
